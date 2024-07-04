@@ -11,5 +11,14 @@
   "dependencies": {
     "axios": "^1.7.2",
     "urlencode": "^2.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/000shobhit000/textlocal-new.git"
+  },
+  "bugs": {
+    "url": "https://github.com/000shobhit000/textlocal-new/issues"
+  },
+  "homepage": "https://github.com/000shobhit000/textlocal-new#readme"
 }
