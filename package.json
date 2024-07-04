@@ -1,6 +1,6 @@
 {
   "name": "textlocal-new",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Textlocal sms api integration for node.js",
   "main": "index.js",
   "scripts": {
