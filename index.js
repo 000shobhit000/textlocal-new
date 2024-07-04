@@ -7,7 +7,6 @@ function sendSms(apiKey, numbers, senderId, message) {
     //     "Hi there, thank you for sending your first test message from Textlocal. Get 20% off today with our code: 222222."
     //   );
     //   const number = "9555090398";
-    //   const apikey = "Njg0YjZjNzQ0ZTUxNTc2ZjYyNjc2MzRkMzI0ZTc3Nzk=";
     //   const sender = "600010";
 
     const data = {
