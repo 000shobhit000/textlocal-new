@@ -1,6 +1,6 @@
 {
   "name": "textlocal-new",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Textlocal sms api integration for node.js",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/000shobhit000/textlocal-new/issues"
   },
-  "homepage": "https://github.com/000shobhit000/textlocal-new#readme"
+  "homepage": "https://github.com/000shobhit000/textlocal-new#readme",
+  "keywords": [
+    "textlocal",
+    "SMS",
+    "smsapi",
+    "SMSApi",
+    "TEXT",
+    "local"
+  ]
 }
